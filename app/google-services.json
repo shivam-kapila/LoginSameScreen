@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "818060392196",
+    "firebase_url": "https://projecttest-5d780.firebaseio.com",
+    "project_id": "projecttest-5d780",
+    "storage_bucket": "projecttest-5d780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818060392196:android:60fd0d3e624489ee",
+        "android_client_info": {
+          "package_name": "com.example.googleapilocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818060392196-0nv1sk9ra0hdj6r07elhmqkph07dhkjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleapilocation",
+            "certificate_hash": "34521938619e3f0d4d2739d20266a3265c9a3df1"
+          }
+        },
+        {
+          "client_id": "818060392196-a7pk6ok92q16gm5ot3ul5fgvo0qars7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qfjUgBzpQelxZtlGkCmEvAAGtp3hmkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818060392196-a7pk6ok92q16gm5ot3ul5fgvo0qars7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818060392196:android:6aaae97fd91bd59f",
+        "android_client_info": {
+          "package_name": "com.shivamkapila.myfirstfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818060392196-1nlk8k9qs1k67e5rnspggrhh52gdltmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivamkapila.myfirstfirebaseproject",
+            "certificate_hash": "d8f8ee8662af1b593163ebf20dee0a5cf2244669"
+          }
+        },
+        {
+          "client_id": "818060392196-a7pk6ok92q16gm5ot3ul5fgvo0qars7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qfjUgBzpQelxZtlGkCmEvAAGtp3hmkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818060392196-a7pk6ok92q16gm5ot3ul5fgvo0qars7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
